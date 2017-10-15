@@ -46,6 +46,7 @@ After scheduling, the database, on the specified time,will start sending users t
 5.	Using NLP setting reminders can be made more intuitive. To obtain the best results we need to classify the intents for as many possible expressions as there are. Training is time consuming and hence has been skipped in the prototype.
 6.	The product can also provide cloud storage for previous medical records for easy access during emergencies.
 7.	This product can be also used to connect users in remote locations to better services.
+8.  To help the user with lifestyle maintenence by providing a BMI calculating mechanism from user data and giving further reccomendations.
 
 
 
