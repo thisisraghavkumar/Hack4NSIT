@@ -44,7 +44,7 @@ After scheduling, the database, on the specified time,will start sending users t
 3.	A combination of the above two features can make the process of diagnostic at fingertip more intuitive and accurate. The user can ask in a very human way his concerns.
 4.	A database containing diversified solutions to many trivial health problems can make the product more relevant and likeable. Creation of such a database will require extensive scrapping and surfing.
 5.	Using NLP setting reminders can be made more intuitive. To obtain the best results we need to classify the intents for as many possible expressions as there are. Training is time consuming and hence has been skipped in the prototype.
-6.	The product can also provide cloud storage for previous medical records for easy access.
+6.	The product can also provide cloud storage for previous medical records for easy access during emergencies.
 7.	This product can be also used to connect users in remote locations to better services.
 
 
@@ -52,7 +52,7 @@ After scheduling, the database, on the specified time,will start sending users t
 ## Future Scope : 
 An intuitive Chabot that communicates like humans and can provide accurate diagnoses of trivial medical conditions and first aid instructions and videos can be developed into a worthwhile product and experience. The key to stand out will be its ability to comprehend sentences and render the content in  a succinct manner.
 
-Challenges faced and lessons learned :
+## Challenges faced and lessons learned :
 1.	Training of data for NLP and NN are time consuming if not already available.
 2.	We learnt how to handle json data objects in python.
 3.	We learnt integratin MySQL and python
